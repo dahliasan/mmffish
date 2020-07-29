@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder id="results">
+	<name>Tas Seal Breeding Sites</name>
+	<open>1</open>
+	<Placemark id="1.2.1">
+		<name>Walker Island</name>
+		<address>Tasmania, Australia</address>
+		<snippet>Tasmania, Australia</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=16.769059350000003&lng=-144.0401019&fid=0xaa6959c8482184e5:0xf03c94eb4518f70&hl=en&gl=sg&client=earth-client&cv=7.3.3.7699&useragent=GoogleEarth/7.3.3.7699(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_A</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=16.769059350000003&amp;lng=-144.0401019&amp;fid=0xaa6959c8482184e5:0xf03c94eb4518f70&amp;hl=en&amp;gl=sg&amp;client=earth-client&amp;cv=7.3.3.7699&amp;useragent=GoogleEarth/7.3.3.7699(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>146.2736321,-43.6311598,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.2.1">
+		<name>Maatsuyker Island</name>
+		<address>Tasmania, Australia</address>
+		<snippet>Tasmania, Australia</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=-43.64737705&lng=146.27673314999998&fid=0xaa695853cd95fd15:0xf03c94eb451b250&hl=en&gl=sg&client=earth-client&cv=7.3.3.7699&useragent=GoogleEarth/7.3.3.7699(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_A</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=-43.64737705&amp;lng=146.27673314999998&amp;fid=0xaa695853cd95fd15:0xf03c94eb451b250&amp;hl=en&amp;gl=sg&amp;client=earth-client&amp;cv=7.3.3.7699&amp;useragent=GoogleEarth/7.3.3.7699(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>146.2769813,-43.6522707,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					146.2643171853136,-43.66176878601475,0 146.2643171853136,-43.64277261398524,0 146.2896454146863,-43.64277261398524,0 146.2896454146863,-43.66176878601475,0 146.2643171853136,-43.66176878601475,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark id="1.2.1">
+		<name>West Moncoeur Island</name>
+		<address>Tasmania, Australia</address>
+		<snippet>Tasmania, Australia</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=-39.23031775&lng=146.50602135&fid=0x6b2ba09cc5f8c523:0xf0579a514426c10&hl=en&gl=sg&client=earth-client&cv=7.3.3.7699&useragent=GoogleEarth/7.3.3.7699(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_A</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=-39.23031775&amp;lng=146.50602135&amp;fid=0x6b2ba09cc5f8c523:0xf0579a514426c10&amp;hl=en&amp;gl=sg&amp;client=earth-client&amp;cv=7.3.3.7699&amp;useragent=GoogleEarth/7.3.3.7699(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>146.5059534,-39.2308577,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					146.4991749735049,-39.2359415198713,0 146.4991749735049,-39.22577388012871,0 146.512731826495,-39.22577388012871,0 146.512731826495,-39.2359415198713,0 146.4991749735049,-39.2359415198713,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark id="1.2.1">
+		<name>Judgement Rocks</name>
+		<address>Tasmania, Australia</address>
+		<snippet>Tasmania, Australia</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=-39.506329349999994&lng=147.12401135000002&fid=0x6b2c88ca7fd7ac4f:0x62b364b4fe4b8fa0&hl=en&gl=sg&client=earth-client&cv=7.3.3.7699&useragent=GoogleEarth/7.3.3.7699(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_A</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=-39.506329349999994&amp;lng=147.12401135000002&amp;fid=0x6b2c88ca7fd7ac4f:0x62b364b4fe4b8fa0&amp;hl=en&amp;gl=sg&amp;client=earth-client&amp;cv=7.3.3.7699&amp;useragent=GoogleEarth/7.3.3.7699(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>147.1239572,-39.5063919,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					147.120581360226,-39.50892377983048,0 147.120581360226,-39.50386002016951,0 147.127333039774,-39.50386002016951,0 147.127333039774,-39.50892377983048,0 147.120581360226,-39.50892377983048,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark id="1.2.1">
+		<name>Moriarty Rocks</name>
+		<address>Tasmania, Australia</address>
+		<snippet>Tasmania, Australia</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=-40.583100099999996&lng=148.27197124999998&fid=0xaa77f6c892b1d9bf:0x93323aee05a79fb8&hl=en&gl=sg&client=earth-client&cv=7.3.3.7699&useragent=GoogleEarth/7.3.3.7699(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_A</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=-40.583100099999996&amp;lng=148.27197124999998&amp;fid=0xaa77f6c892b1d9bf:0x93323aee05a79fb8&amp;hl=en&amp;gl=sg&amp;client=earth-client&amp;cv=7.3.3.7699&amp;useragent=GoogleEarth/7.3.3.7699(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>148.2721712,-40.5832704,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					148.2688482619369,-40.58576260354732,0 148.2688482619369,-40.58077819645267,0 148.2754941380631,-40.58077819645267,0 148.2754941380631,-40.58576260354732,0 148.2688482619369,-40.58576260354732,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark id="1.2.1">
+		<name>Tenth Island</name>
+		<address>Tasmania, Australia</address>
+		<snippet>Tasmania, Australia</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=-40.942302&lng=146.98486325&fid=0xaa799729baacc351:0xf03c94eb4519c60&hl=en&gl=sg&client=earth-client&cv=7.3.3.7699&useragent=GoogleEarth/7.3.3.7699(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_A</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=-40.942302&amp;lng=146.98486325&amp;fid=0xaa799729baacc351:0xf03c94eb4519c60&amp;hl=en&amp;gl=sg&amp;client=earth-client&amp;cv=7.3.3.7699&amp;useragent=GoogleEarth/7.3.3.7699(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>146.9848558,-40.9422858,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					146.9815507699995,-40.94476457250039,0 146.9815507699995,-40.93980702749961,0 146.9881608300005,-40.93980702749961,0 146.9881608300005,-40.94476457250039,0 146.9815507699995,-40.94476457250039,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark id="1.2.1">
+		<name>Reid Rocks</name>
+		<address>Tasmania, Australia</address>
+		<snippet>Tasmania, Australia</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=-40.245368850000006&lng=144.1682352&fid=0xaa875293fb65e19b:0xc2c31a8b8e6db5b0&hl=en&gl=sg&client=earth-client&cv=7.3.3.7699&useragent=GoogleEarth/7.3.3.7699(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_A</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=-40.245368850000006&amp;lng=144.1682352&amp;fid=0xaa875293fb65e19b:0xc2c31a8b8e6db5b0&amp;hl=en&amp;gl=sg&amp;client=earth-client&amp;cv=7.3.3.7699&amp;useragent=GoogleEarth/7.3.3.7699(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>144.1682352,-40.2453694,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					144.1548765639303,-40.25538837705227,0 144.1548765639303,-40.23535042294773,0 144.1815938360697,-40.23535042294773,0 144.1815938360697,-40.25538837705227,0 144.1548765639303,-40.25538837705227,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+</Folder>
+</kml>

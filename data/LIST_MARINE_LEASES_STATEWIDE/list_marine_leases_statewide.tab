@@ -1,0 +1,18 @@
+!table
+!version 300
+!charset WindowsLatin1
+
+Definition Table
+  Type NATIVE Charset "WindowsLatin1"
+  Fields 11
+    CID Decimal (10, 0) ;
+    M_LEASE_NO Char (30) ;
+    PLAN_REF Char (8) ;
+    COMP_AREA Decimal (19, 8) ;
+    MEAS_AREA Decimal (19, 8) ;
+    UFI Char (12) ;
+    FMP Char (12) ;
+    CREATED_ON Char (19) ;
+    LIST_GUID Char (38) ;
+    SHAPE_AREA Decimal (19, 11) ;
+    SHAPE_LEN Decimal (19, 11) ;
