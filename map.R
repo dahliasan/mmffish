@@ -99,29 +99,3 @@ p1 <- tasmap1 +
   tm_style("col_blind", legend.text.size = 1) 
 
 tmap_save(p1, filename = 'Finfish x Seal Map.png', units = 'in', height = 7, width = 6)
-
-
-ggplot(farm_lease_fin) + 
-  geom_sf() + 
-  theme_bw()
-  
-
-au_map <- world[world$iso_a2 == "AU",]
-plot(st_geometry(au_map))
-
-
-tm_shape(farm_lease_fin) + 
-  tm_polygons(palette = "Greens") + 
-  tm_shape(au_map) + 
-  tm_polygons(fill = 'red')
-
-
-library(sf)
-library(raster)
-library(dplyr)
-library(spData)
-library(spDataLarge)
-library(tmap)    # for static and interactive maps
-library(leaflet) # for interactive maps
-library(ggplot2) # tidyverse data visualization package
-
