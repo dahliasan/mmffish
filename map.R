@@ -4,8 +4,10 @@ library(sf)
 library(tidyverse)
 library(tmap)
 library(tmaptools)
-library("rnaturalearth")
-library("rnaturalearthdata")
+# library("rnaturalearth")
+# library("rnaturalearthdata")
+library(spData)
+library(spDataLarge)
 library(raster)
 
 # Load shape file
